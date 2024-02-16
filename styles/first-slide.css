@@ -1,0 +1,50 @@
+* {
+    font-family: 'PT Serif', serif;
+
+}
+
+.first-slide-inner {
+    display: flex;
+    flex-direction: column;
+
+
+}
+
+.heading-fs {
+    background-image: url("https://lady-dog.ru/wp-content/uploads/a/e/8/ae808ac89640ec238ac6ccd4496c492e.jpeg");
+    object-fit: cover;
+    vertical-align: middle;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 50%;
+    height: 200px;
+}
+
+.head-fs {
+    position: absolute;
+    top: 160px;
+    left: 37%;  
+    font-weight: 700;
+    font-size: 35px;   
+    text-align: center;
+    color: white; 
+}
+
+.image {
+    width: 100%;
+    object-fit: cover;
+    height: 200px;
+    vertical-align: 100%;
+}
+
+.h3-fs {
+    font-weight: bolder;
+    text-align: center;
+    font-size: 24px;
+    margin: 30px;
+}
+
+.p-fs {
+    padding: 0 60px;
+    line-height: 1.6;
+}
